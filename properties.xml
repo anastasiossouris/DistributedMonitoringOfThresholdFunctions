@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="monitoredfunction.class.name">gr.tuc.softnet.monitoring.example.OneDimThreshold</entry>
+	<entry key="inputstream.class.name">java.io.InputStream</entry>
+	<entry key="inputsourcereader.class.name">DummyInputSourceReader</entry>
+</properties>
